@@ -143,4 +143,4 @@ with col2:
     ax.set_yticks([])
     st.pyplot(fig)
 
-st.caption("Made by Diya Limbani,Suhan Ramani,Krish Patel")
+st.caption("Made by Suhan Ramani")
